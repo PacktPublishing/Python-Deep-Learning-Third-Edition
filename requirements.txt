@@ -1,7 +1,7 @@
 diffusers==0.21.0
 evaluate==0.4.0
 keras==2.13.1
-langchain==0.0.317
+langchain==0.0.325
 langchain_experimental==0.0.17
 matplotlib==3.7.3
 numpy==1.22.4
