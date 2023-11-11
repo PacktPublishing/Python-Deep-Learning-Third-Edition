@@ -1,6 +1,6 @@
 # Python Deep Learning - Third Edition
 
-<a href="https://www.packtpub.com/product/python-deep-learning-third-edition/9781837638505"><img src="https://static.packt-cdn.com/products/9781800560413/cover/smaller" alt="Python Deep Learning - Third Edition" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/python-deep-learning-third-edition/9781837638505"><img src="https://content.packt.com/B19627/cover_image_small.jpg" alt="Python Deep Learning - Third Edition" height="256px" align="right"></a>
 
 This is the code repository for [Python Deep Learning - Third Edition](https://www.packtpub.com/product/python-deep-learning-third-edition/9781837638505), published by Packt.
 
