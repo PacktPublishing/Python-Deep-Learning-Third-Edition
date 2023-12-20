@@ -17,5 +17,5 @@ torch==2.0.1
 torchsummary==1.5.1
 torchtext==0.15.2
 torchvision==0.15.2
-transformers==4.33.1
+transformers==4.36.0
 ultralytics==8.0.178
