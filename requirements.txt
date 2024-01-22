@@ -9,7 +9,7 @@ opencv_contrib_python==4.8.0.76
 opencv_python==4.8.0.76
 opencv_python_headless==4.8.0.76
 pandas==2.1.0
-Pillow==10.0.1
+Pillow==10.2.0
 Requests==2.31.0
 tensorflow==2.13.0
 tensorflow_datasets==4.8.2
