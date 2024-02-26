@@ -2,7 +2,7 @@ diffusers==0.21.0
 evaluate==0.4.0
 keras==2.13.1
 langchain==0.0.329
-langchain_experimental==0.0.17
+langchain_experimental==0.0.52
 matplotlib==3.7.3
 numpy==1.22.4
 opencv_contrib_python==4.8.0.76
