@@ -1,6 +1,3 @@
-
-<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/e72907cf-bf2f-4f83-bb58-6cc08a901ff9.jpeg)](https://www.packtpub.com/)</p></b>Get this book on sale at [Packt](https://www.packtpub.com/).
-
 # Python Deep Learning - Third Edition
 
 <a href="https://www.packtpub.com/product/python-deep-learning-third-edition/9781837638505"><img src="https://content.packt.com/B19627/cover_image_small.jpg" alt="Python Deep Learning - Third Edition" height="256px" align="right"></a>
