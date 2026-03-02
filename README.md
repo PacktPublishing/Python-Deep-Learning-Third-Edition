@@ -1,5 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/machine-learning-and-generative-ai-system-design-workshop-tickets-1975103644168?aff=Github'><img src='https://static.packt-cdn.com/assets/images/packt+events/Sairam_ML_GenAI_Github_banner.png'/></a></p>
-
 # Python Deep Learning - Third Edition
 
 <a href="https://www.packtpub.com/product/python-deep-learning-third-edition/9781837638505"><img src="https://content.packt.com/B19627/cover_image_small.jpg" alt="Python Deep Learning - Third Edition" height="256px" align="right"></a>
